@@ -5,11 +5,11 @@
 	"name": "AntiOlaf",
 	"description": "lul",
 	"authors": [
-		"Me!"
+		"Robotig6282"
 	],
 	"contact": {
 		"homepage": "https://cactusmod.xyz/",
-		"sources": "https://github.com/cactusmod/addon-template"
+		"sources": "https://github.com/Robotig6282/AntiOlaf"
 	},
 	"environment": "client",
 	"entrypoints": {
@@ -24,9 +24,6 @@
 		"fabricloader": ">=0.17.3",
 		"minecraft": "~1.21.1",
 		"java": ">=21",
-		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
+		"cactus": "*"
 	}
 }
